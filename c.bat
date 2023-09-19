@@ -1,0 +1,2 @@
+javac ExemplosBasicos.java
+java ExemplosBasicos
